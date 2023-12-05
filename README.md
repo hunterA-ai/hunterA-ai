@@ -9,5 +9,5 @@
 - 🔭 I’m currently working on applied machine learning via time-series forecasting
 - 🌱 I’m currently learning how PyTorch models are implemented and how Transformers work.
 - 📫 How to reach me: hsa5@uw.edu
-- ⚡ Fun fact: I am probably climbing right now!
+- ⚡ Fun fact: I ran the Seattle Marathon in November 2023
 -->
